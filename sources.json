@@ -1,0 +1,20 @@
+[
+    {
+        "name":"Super Smash Bros. Brawl",
+        "url": "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/a42594bf91eab9148bf03bbc36ef572d.png",
+        "resolution": "600x900",
+        "note": ""
+    },
+    {
+        "name":"Super Smash Bros. Brawl v2",
+        "url": "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/768aabb145d87a97247ea208b74958fc.png",
+        "resolution": "600x900",
+        "note": ""
+    },
+    {
+        "name":"Liberated",
+        "url": "https://raw.githubusercontent.com/Slluxx/icongrabber_extSource/main/images/liberated.jpg",
+        "resolution": "600x900",
+        "note": ""
+    }
+]
